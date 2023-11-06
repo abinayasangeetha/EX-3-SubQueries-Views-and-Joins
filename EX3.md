@@ -200,5 +200,6 @@ select s.name,c.cust_name,c.city,s.commission from salesman1 as s right join cus
 
 ### OUTPUT:
 ![QU10](https://github.com/abinayasangeetha/EX-3-SubQueries-Views-and-Joins/assets/119393675/51d9cd57-2aaa-43c8-84d4-9c8ecd9d4328)
-
+### RESULT:
+ To create SubQueries, Views and Joins using sql is executed successfully.
 
